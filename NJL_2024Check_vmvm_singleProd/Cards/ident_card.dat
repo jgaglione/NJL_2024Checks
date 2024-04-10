@@ -1,0 +1,71 @@
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+c      written by the UFO converter
+ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+ckmblock 1 mdl_cabi
+
+sminputs 1 aEWM1
+
+sminputs 2 mdl_Gf
+
+sminputs 3 aS
+
+yukawa 6 mdl_ymt
+
+yukawa 15 mdl_ymtau
+
+frblock 1 mdl_lc
+
+frblock 2 mdl_mpi
+
+frblock 3 mdl_FPi53
+
+frblock 4 mdl_FPi13
+
+frblock 5 mdl_FPid23
+
+frblock 6 mdl_FPiu23
+
+frblock 7 mdl_cabi2
+
+mass 23 mdl_MZ
+
+mass 13 mdl_MM
+
+mass 15 mdl_MTA
+
+mass 6 mdl_MT
+
+mass 25 mdl_MH
+
+decay 23 mdl_WZ
+
+decay 24 mdl_WW
+
+decay 6 mdl_WT
+
+decay 25 mdl_WH
+
+decay 9000006 mdl_WPi53uno
+
+decay 9000007 mdl_WPi13uno
+
+decay 9000008 mdl_WPiu23uno
+
+decay 9000009 mdl_WPid23uno
+
+decay 9000010 mdl_WPi53due
+
+decay 9000011 mdl_WPi13due
+
+decay 9000012 mdl_WPiu23due
+
+decay 9000013 mdl_WPid23due
+
+decay 9000014 mdl_WPi53tre
+
+decay 9000015 mdl_WPi13tre
+
+decay 9000016 mdl_WPiu23tre
+
+decay 9000017 mdl_WPid23tre

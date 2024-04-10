@@ -1,0 +1,8 @@
+1       g c > vm vm~ c
+mirror  c g > vm vm~ c
+2       g s > vm vm~ s
+mirror  s g > vm vm~ s
+3       g c~ > vm vm~ c~
+mirror  c~ g > vm vm~ c~
+4       g s~ > vm vm~ s~
+mirror  s~ g > vm vm~ s~

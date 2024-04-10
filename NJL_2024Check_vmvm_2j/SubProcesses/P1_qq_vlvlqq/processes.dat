@@ -1,0 +1,56 @@
+1       c c > vm vm~ c c
+mirror  none
+2       c c~ > vm vm~ c c~
+mirror  c~ c > vm vm~ c c~
+3       s s > vm vm~ s s
+mirror  none
+4       s s~ > vm vm~ s s~
+mirror  s~ s > vm vm~ s s~
+5       c~ c~ > vm vm~ c~ c~
+mirror  none
+6       s~ s~ > vm vm~ s~ s~
+mirror  none
+7       c s > vm vm~ c s
+mirror  s c > vm vm~ c s
+8       c c~ > vm vm~ s s~
+mirror  c~ c > vm vm~ s s~
+9       c s~ > vm vm~ c s~
+mirror  s~ c > vm vm~ c s~
+10      s c~ > vm vm~ s c~
+mirror  c~ s > vm vm~ s c~
+11      s s~ > vm vm~ c c~
+mirror  s~ s > vm vm~ c c~
+12      c~ s~ > vm vm~ c~ s~
+mirror  s~ c~ > vm vm~ c~ s~
+13      u c > vm vm~ u c
+mirror  c u > vm vm~ u c
+14      u s > vm vm~ u s,d s > vm vm~ d s
+mirror  s u > vm vm~ u s,s d > vm vm~ d s
+15      u u~ > vm vm~ c c~,d d~ > vm vm~ c c~,b b~ > vm vm~ c c~
+mirror  u~ u > vm vm~ c c~,d~ d > vm vm~ c c~,b~ b > vm vm~ c c~
+16      u u~ > vm vm~ s s~,d d~ > vm vm~ s s~,b b~ > vm vm~ s s~
+mirror  u~ u > vm vm~ s s~,d~ d > vm vm~ s s~,b~ b > vm vm~ s s~
+17      u c~ > vm vm~ u c~,d c~ > vm vm~ d c~,b c~ > vm vm~ b c~
+mirror  c~ u > vm vm~ u c~,c~ d > vm vm~ d c~,c~ b > vm vm~ b c~
+18      u s~ > vm vm~ u s~,d s~ > vm vm~ d s~,b s~ > vm vm~ b s~
+mirror  s~ u > vm vm~ u s~,s~ d > vm vm~ d s~,s~ b > vm vm~ b s~
+19      c d > vm vm~ c d,c b > vm vm~ c b
+mirror  d c > vm vm~ c d,b c > vm vm~ c b
+20      c u~ > vm vm~ c u~,c d~ > vm vm~ c d~,c b~ > vm vm~ c b~
+mirror  u~ c > vm vm~ c u~,d~ c > vm vm~ c d~,b~ c > vm vm~ c b~
+21      c c~ > vm vm~ u u~,c c~ > vm vm~ d d~,c c~ > vm vm~ b b~
+mirror  c~ c > vm vm~ u u~,c~ c > vm vm~ d d~,c~ c > vm vm~ b b~
+22      s b > vm vm~ s b
+mirror  b s > vm vm~ s b
+23      s u~ > vm vm~ s u~,s d~ > vm vm~ s d~,s b~ > vm vm~ s b~
+mirror  u~ s > vm vm~ s u~,d~ s > vm vm~ s d~,b~ s > vm vm~ s b~
+24      s s~ > vm vm~ u u~,s s~ > vm vm~ d d~,s s~ > vm vm~ b b~
+mirror  s~ s > vm vm~ u u~,s~ s > vm vm~ d d~,s~ s > vm vm~ b b~
+25      u~ c~ > vm vm~ u~ c~
+mirror  c~ u~ > vm vm~ u~ c~
+26      u~ s~ > vm vm~ u~ s~,d~ s~ > vm vm~ d~ s~
+mirror  s~ u~ > vm vm~ u~ s~,s~ d~ > vm vm~ d~ s~
+27      c~ d~ > vm vm~ c~ d~,c~ b~ > vm vm~ c~ b~
+mirror  d~ c~ > vm vm~ c~ d~,b~ c~ > vm vm~ c~ b~
+28      s~ b~ > vm vm~ s~ b~
+mirror  b~ s~ > vm vm~ s~ b~
