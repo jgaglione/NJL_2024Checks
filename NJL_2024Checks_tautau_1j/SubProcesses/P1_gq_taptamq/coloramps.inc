@@ -1,0 +1,7 @@
+      LOGICAL ICOLAMP(1,6,2)
+      DATA(ICOLAMP(I,1,1),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,2,1),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,3,1),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,4,2),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,5,2),I=1,1)/.TRUE./
+      DATA(ICOLAMP(I,6,2),I=1,1)/.TRUE./

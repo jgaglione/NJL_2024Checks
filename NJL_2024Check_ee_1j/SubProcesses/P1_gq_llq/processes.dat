@@ -1,0 +1,8 @@
+1       g u > e+ e- u
+mirror  u g > e+ e- u
+2       g d > e+ e- d
+mirror  d g > e+ e- d
+3       g u~ > e+ e- u~
+mirror  u~ g > e+ e- u~
+4       g d~ > e+ e- d~
+mirror  d~ g > e+ e- d~

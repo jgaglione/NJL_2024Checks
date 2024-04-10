@@ -1,0 +1,100 @@
+# This file was automatically created by FeynRules 2.3.48
+# Mathematica version: 12.3.1 for Mac OS X ARM (64-bit) (July 8, 2021)
+# Date: Fri 26 Aug 2022 13:24:18
+
+
+# 
+# This is the logfile for the model SheSheng_NJLLQ
+
+# Authors: O. Panella, R. Leonardi, Shesheng Xue
+# Model version: 3.3
+# Checking the Quantum numbers
+   * Electric charge defined.
+# Checking the Lagrangians
+   * All Lagrangians are ok.
+#
+# Particle definitions
+#
+
+   * No particles removed. All particles correspond to GenInt setup.
+
+# Automatically assigned PDG numbers
+   * Assigned PDG number 9000001 to particle ghA
+   * Assigned PDG number 9000002 to particle ghZ
+   * Assigned PDG number 9000003 to particle ghWp
+   * Assigned PDG number 9000004 to particle ghWm
+   * Assigned PDG number 9000005 to particle ghG
+   * Assigned PDG number 9000006 to particle Pi53uno
+   * Assigned PDG number 9000007 to particle Pi13uno
+   * Assigned PDG number 9000008 to particle Piu23uno
+   * Assigned PDG number 9000009 to particle Pid23uno
+   * Assigned PDG number 9000010 to particle Pi53due
+   * Assigned PDG number 9000011 to particle Pi13due
+   * Assigned PDG number 9000012 to particle Piu23due
+   * Assigned PDG number 9000013 to particle Pid23due
+   * Assigned PDG number 9000014 to particle Pi53tre
+   * Assigned PDG number 9000015 to particle Pi13tre
+   * Assigned PDG number 9000016 to particle Piu23tre
+   * Assigned PDG number 9000017 to particle Pid23tre
+
+
+# Compulsory PDG codes:
+   * Class SM leptons complete.
+   * Class SM neutrinos complete.
+   * Class SM quarks complete.
+   * Class SM gauge bosons complete.
+#
+# Parameter definitions
+#
+
+   * All parameters are ok.
+
+
+# Vertices
+   * Calling FeynmanRules for 6 Lagrangians.
+   * Number of classes vertices: 252
+   * Number of flavored vertices: 252
+   * Saved vertices in InterfaceRun[ 1 ].
+   * Checked QNumber conservation.
+      - Quantum number GhostNumber conserved in all vertices.
+      - Quantum number LeptonNumber conserved in all vertices.
+      - Quantum number Q conserved in all vertices.
+      - Quantum number Y conserved in all vertices.
+   * particles.py written.
+   * parameters.py written.
+#
+# Vertex definitions
+#
+
+   * 252 vertices written.
+   * vertices.py written.
+#
+# Lorentz structure definitions
+#
+
+   * 20 lorentz structures written.
+   * lorentz.py written.
+#
+# Coupling definitions
+#
+
+   * 70 couplings written.
+   * couplings.py written.
+#
+# Coupling order definitions
+#
+
+   * 0 couplings orders written.
+   * coupling_orders.py written.
+#
+# Decay definitions
+#
+
+   * 18 decays written.
+   * decay.py not written
+#
+# CTCoupling definitions
+#
+
+   * 0 CTcouplings written.
+   * CT_couplings.py written.

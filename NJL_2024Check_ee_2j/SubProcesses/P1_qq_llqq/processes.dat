@@ -1,0 +1,52 @@
+1       u u > e+ e- u u
+mirror  none
+2       u u~ > e+ e- u u~
+mirror  u~ u > e+ e- u u~
+3       d d > e+ e- d d
+mirror  none
+4       d d~ > e+ e- d d~
+mirror  d~ d > e+ e- d d~
+5       u~ u~ > e+ e- u~ u~
+mirror  none
+6       d~ d~ > e+ e- d~ d~
+mirror  none
+7       u d > e+ e- u d
+mirror  d u > e+ e- u d
+8       u u~ > e+ e- d d~
+mirror  u~ u > e+ e- d d~
+9       u d~ > e+ e- u d~
+mirror  d~ u > e+ e- u d~
+10      d u~ > e+ e- d u~
+mirror  u~ d > e+ e- d u~
+11      d d~ > e+ e- u u~
+mirror  d~ d > e+ e- u u~
+12      u~ d~ > e+ e- u~ d~
+mirror  d~ u~ > e+ e- u~ d~
+13      u c > e+ e- u c,u s > e+ e- u s,u b > e+ e- u b
+mirror  c u > e+ e- u c,s u > e+ e- u s,b u > e+ e- u b
+14      u u~ > e+ e- c c~,u u~ > e+ e- s s~,u u~ > e+ e- b b~
+mirror  u~ u > e+ e- c c~,u~ u > e+ e- s s~,u~ u > e+ e- b b~
+15      u c~ > e+ e- u c~,u s~ > e+ e- u s~,u b~ > e+ e- u b~
+mirror  c~ u > e+ e- u c~,s~ u > e+ e- u s~,b~ u > e+ e- u b~
+16      c d > e+ e- c d
+mirror  d c > e+ e- c d
+17      c u~ > e+ e- c u~,s u~ > e+ e- s u~,b u~ > e+ e- b u~
+mirror  u~ c > e+ e- c u~,u~ s > e+ e- s u~,u~ b > e+ e- b u~
+18      c c~ > e+ e- u u~,s s~ > e+ e- u u~,b b~ > e+ e- u u~
+mirror  c~ c > e+ e- u u~,s~ s > e+ e- u u~,b~ b > e+ e- u u~
+19      c c~ > e+ e- d d~,s s~ > e+ e- d d~,b b~ > e+ e- d d~
+mirror  c~ c > e+ e- d d~,s~ s > e+ e- d d~,b~ b > e+ e- d d~
+20      c d~ > e+ e- c d~,s d~ > e+ e- s d~,b d~ > e+ e- b d~
+mirror  d~ c > e+ e- c d~,d~ s > e+ e- s d~,d~ b > e+ e- b d~
+21      d s > e+ e- d s,d b > e+ e- d b
+mirror  s d > e+ e- d s,b d > e+ e- d b
+22      d c~ > e+ e- d c~,d s~ > e+ e- d s~,d b~ > e+ e- d b~
+mirror  c~ d > e+ e- d c~,s~ d > e+ e- d s~,b~ d > e+ e- d b~
+23      d d~ > e+ e- c c~,d d~ > e+ e- s s~,d d~ > e+ e- b b~
+mirror  d~ d > e+ e- c c~,d~ d > e+ e- s s~,d~ d > e+ e- b b~
+24      u~ c~ > e+ e- u~ c~,u~ s~ > e+ e- u~ s~,u~ b~ > e+ e- u~ b~
+mirror  c~ u~ > e+ e- u~ c~,s~ u~ > e+ e- u~ s~,b~ u~ > e+ e- u~ b~
+25      c~ d~ > e+ e- c~ d~
+mirror  d~ c~ > e+ e- c~ d~
+26      d~ s~ > e+ e- d~ s~,d~ b~ > e+ e- d~ b~
+mirror  s~ d~ > e+ e- d~ s~,b~ d~ > e+ e- d~ b~

@@ -1,0 +1,56 @@
+1       c c > mu+ mu- c c
+mirror  none
+2       c c~ > mu+ mu- c c~
+mirror  c~ c > mu+ mu- c c~
+3       s s > mu+ mu- s s
+mirror  none
+4       s s~ > mu+ mu- s s~
+mirror  s~ s > mu+ mu- s s~
+5       c~ c~ > mu+ mu- c~ c~
+mirror  none
+6       s~ s~ > mu+ mu- s~ s~
+mirror  none
+7       c s > mu+ mu- c s
+mirror  s c > mu+ mu- c s
+8       c c~ > mu+ mu- s s~
+mirror  c~ c > mu+ mu- s s~
+9       c s~ > mu+ mu- c s~
+mirror  s~ c > mu+ mu- c s~
+10      s c~ > mu+ mu- s c~
+mirror  c~ s > mu+ mu- s c~
+11      s s~ > mu+ mu- c c~
+mirror  s~ s > mu+ mu- c c~
+12      c~ s~ > mu+ mu- c~ s~
+mirror  s~ c~ > mu+ mu- c~ s~
+13      u c > mu+ mu- u c
+mirror  c u > mu+ mu- u c
+14      u s > mu+ mu- u s,d s > mu+ mu- d s
+mirror  s u > mu+ mu- u s,s d > mu+ mu- d s
+15      u u~ > mu+ mu- c c~,d d~ > mu+ mu- c c~,b b~ > mu+ mu- c c~
+mirror  u~ u > mu+ mu- c c~,d~ d > mu+ mu- c c~,b~ b > mu+ mu- c c~
+16      u u~ > mu+ mu- s s~,d d~ > mu+ mu- s s~,b b~ > mu+ mu- s s~
+mirror  u~ u > mu+ mu- s s~,d~ d > mu+ mu- s s~,b~ b > mu+ mu- s s~
+17      u c~ > mu+ mu- u c~,d c~ > mu+ mu- d c~,b c~ > mu+ mu- b c~
+mirror  c~ u > mu+ mu- u c~,c~ d > mu+ mu- d c~,c~ b > mu+ mu- b c~
+18      u s~ > mu+ mu- u s~,d s~ > mu+ mu- d s~,b s~ > mu+ mu- b s~
+mirror  s~ u > mu+ mu- u s~,s~ d > mu+ mu- d s~,s~ b > mu+ mu- b s~
+19      c d > mu+ mu- c d,c b > mu+ mu- c b
+mirror  d c > mu+ mu- c d,b c > mu+ mu- c b
+20      c u~ > mu+ mu- c u~,c d~ > mu+ mu- c d~,c b~ > mu+ mu- c b~
+mirror  u~ c > mu+ mu- c u~,d~ c > mu+ mu- c d~,b~ c > mu+ mu- c b~
+21      c c~ > mu+ mu- u u~,c c~ > mu+ mu- d d~,c c~ > mu+ mu- b b~
+mirror  c~ c > mu+ mu- u u~,c~ c > mu+ mu- d d~,c~ c > mu+ mu- b b~
+22      s b > mu+ mu- s b
+mirror  b s > mu+ mu- s b
+23      s u~ > mu+ mu- s u~,s d~ > mu+ mu- s d~,s b~ > mu+ mu- s b~
+mirror  u~ s > mu+ mu- s u~,d~ s > mu+ mu- s d~,b~ s > mu+ mu- s b~
+24      s s~ > mu+ mu- u u~,s s~ > mu+ mu- d d~,s s~ > mu+ mu- b b~
+mirror  s~ s > mu+ mu- u u~,s~ s > mu+ mu- d d~,s~ s > mu+ mu- b b~
+25      u~ c~ > mu+ mu- u~ c~
+mirror  c~ u~ > mu+ mu- u~ c~
+26      u~ s~ > mu+ mu- u~ s~,d~ s~ > mu+ mu- d~ s~
+mirror  s~ u~ > mu+ mu- u~ s~,s~ d~ > mu+ mu- d~ s~
+27      c~ d~ > mu+ mu- c~ d~,c~ b~ > mu+ mu- c~ b~
+mirror  d~ c~ > mu+ mu- c~ d~,b~ c~ > mu+ mu- c~ b~
+28      s~ b~ > mu+ mu- s~ b~
+mirror  b~ s~ > mu+ mu- s~ b~

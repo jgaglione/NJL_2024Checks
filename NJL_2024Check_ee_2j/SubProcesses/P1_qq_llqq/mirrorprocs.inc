@@ -1,0 +1,4 @@
+      DATA (MIRRORPROCS(I),I=1,26)/.FALSE.,.TRUE.,.FALSE.,.TRUE.
+     $ ,.FALSE.,.FALSE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.
+     $ ,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE.
+     $ ,.TRUE.,.TRUE.,.TRUE.,.TRUE.,.TRUE./

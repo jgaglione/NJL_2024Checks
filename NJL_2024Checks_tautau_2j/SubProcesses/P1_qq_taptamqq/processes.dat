@@ -1,0 +1,18 @@
+1       b b > ta+ ta- b b
+mirror  none
+2       b b~ > ta+ ta- b b~
+mirror  b~ b > ta+ ta- b b~
+3       b~ b~ > ta+ ta- b~ b~
+mirror  none
+4       u b > ta+ ta- u b,c b > ta+ ta- c b,d b > ta+ ta- d b,s b > ta+ ta- s b
+mirror  b u > ta+ ta- u b,b c > ta+ ta- c b,b d > ta+ ta- d b,b s > ta+ ta- s b
+5       u u~ > ta+ ta- b b~,c c~ > ta+ ta- b b~,d d~ > ta+ ta- b b~,s s~ > ta+ ta- b b~
+mirror  u~ u > ta+ ta- b b~,c~ c > ta+ ta- b b~,d~ d > ta+ ta- b b~,s~ s > ta+ ta- b b~
+6       u b~ > ta+ ta- u b~,c b~ > ta+ ta- c b~,d b~ > ta+ ta- d b~,s b~ > ta+ ta- s b~
+mirror  b~ u > ta+ ta- u b~,b~ c > ta+ ta- c b~,b~ d > ta+ ta- d b~,b~ s > ta+ ta- s b~
+7       b u~ > ta+ ta- b u~,b c~ > ta+ ta- b c~,b d~ > ta+ ta- b d~,b s~ > ta+ ta- b s~
+mirror  u~ b > ta+ ta- b u~,c~ b > ta+ ta- b c~,d~ b > ta+ ta- b d~,s~ b > ta+ ta- b s~
+8       b b~ > ta+ ta- u u~,b b~ > ta+ ta- c c~,b b~ > ta+ ta- d d~,b b~ > ta+ ta- s s~
+mirror  b~ b > ta+ ta- u u~,b~ b > ta+ ta- c c~,b~ b > ta+ ta- d d~,b~ b > ta+ ta- s s~
+9       u~ b~ > ta+ ta- u~ b~,c~ b~ > ta+ ta- c~ b~,d~ b~ > ta+ ta- d~ b~,s~ b~ > ta+ ta- s~ b~
+mirror  b~ u~ > ta+ ta- u~ b~,b~ c~ > ta+ ta- c~ b~,b~ d~ > ta+ ta- d~ b~,b~ s~ > ta+ ta- s~ b~

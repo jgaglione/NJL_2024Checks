@@ -1,0 +1,1 @@
+DIRNAME=P1_gq_pid23tretam_pid23tre_tapq
